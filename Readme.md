@@ -3,7 +3,7 @@ Este é um projeto que eu fiz para colocar oque eu aprendi em um curso, fiz esse
 <br><br>
 
 ## Imagem do site
-![preview](img/site_img.png)
+![preview](img/site_img.PNG)
 <br><br>
 
 ## 🛠 Tecnologias

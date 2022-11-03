@@ -8,7 +8,6 @@ Este é um projeto que eu fiz para colocar oque eu aprendi em um curso, fiz esse
 
 ## 🛠 Tecnologias
 - HTML
-- CSS
 - GIT e GITHUB
 <br><br>
 
